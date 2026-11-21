@@ -1,0 +1,7 @@
+order_id,customer,amount,city
+1,Rahul,500,Delhi
+2,Amit,700,Mumbai
+3,Priya,,Pune
+4,Rahul,500,Delhi
+5,Raj,900,Ahmedabad
+6,Neha,1200,Hyderabad
